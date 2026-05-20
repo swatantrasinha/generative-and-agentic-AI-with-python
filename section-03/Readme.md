@@ -7,3 +7,9 @@
 
 <img width="410" height="251" alt="image" src="https://github.com/user-attachments/assets/eca0b54b-9182-4140-a2a6-ab2cec0417b7" />
 
+Mutuable and Immutable:      
+mutuable: identity is changebale   
+immutuable: identity is not changebale   
+
+---
+
