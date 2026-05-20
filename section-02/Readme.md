@@ -5,12 +5,15 @@
 This is mainly for safeguarding application from other versions.
 
 1. create folder say - "virtual-env"
+
 2. inside "virtual-env", create one more folder "src"
+
 3. inside terminal - go to this "virtual-env" location : 
    
    a) verify python is there
+    > python3 --version
 
-   b) give below command : 
+   b) give below command to create virtual env with name ".venv" (name can be anything) :  
 
    > python3 -m venv .venv
 
@@ -28,7 +31,14 @@ This is mainly for safeguarding application from other versions.
 
     > pip install -r requirements.txt
 
-    f) we can include ".venv" to ".gitignore" file
+<img width="666" height="176" alt="image" src="https://github.com/user-attachments/assets/5ac56f63-2ead-406b-85a0-7d5eafb1c895" />
+
+
+   
+
+   f) give command deactivate to get out of virtual env
+
+   g) we can include ".venv" to ".gitignore" file
 
 
 
