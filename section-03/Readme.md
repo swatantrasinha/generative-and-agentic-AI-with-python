@@ -1,6 +1,6 @@
-# Data Types in Python
+# Section 03
 ---
 
-## Object and Mutability
+## Data Types in Python
 
-Everything in python is object
+### Object and Mutability : Everything in python is object
