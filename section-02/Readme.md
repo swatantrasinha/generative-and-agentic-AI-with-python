@@ -4,6 +4,10 @@
 
 This is mainly for safeguarding application from other versions.
 
+<details>
+  <summary>Steps to create Virtual Environment</summary>
+  <p>
+
 1. create folder say - "virtual-env"
 
 2. inside "virtual-env", create one more folder "src"
@@ -23,11 +27,11 @@ This is mainly for safeguarding application from other versions.
 
    this will take the terminnal to virtual env
 
-   c) create a new file "requirements.txt" inside folder "virtual-env" parallel to ".venv" and "src"
+   d) create a new file "requirements.txt" inside folder "virtual-env" parallel to ".venv" and "src"
 
-   d) write some library name in requirements .txt :
+   e) write some library name in requirements .txt :
 
-   e) install the librarries in the "requirements.txt" to the virtual env
+   f) install the librarries in the "requirements.txt" to the virtual env
 
     > pip install -r requirements.txt
 
@@ -36,9 +40,12 @@ This is mainly for safeguarding application from other versions.
 
    
 
-   f) give command deactivate to get out of virtual env
+   g) give command "deactivate" to get out of virtual env
 
-   g) we can include ".venv" to ".gitignore" file
+   4. we can include ".venv" to ".gitignore" file
+
+   </p>
+</details>
 
 
 
