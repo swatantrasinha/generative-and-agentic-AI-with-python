@@ -18,7 +18,7 @@
    <img width="523" height="401" alt="image" src="https://github.com/user-attachments/assets/4eee96a2-9be9-40ca-a21c-3e4c5e7c7851" />   
    <img width="414" height="232" alt="image" src="https://github.com/user-attachments/assets/6f632535-2f40-4897-90c5-15147ac91ac7" />
    
-   Note: Here we can see the reference are changed
+   Note: Here we can see the reference are changed. The number 2 and 12 are immutable but the sugar_amount is mutable
 </p>>
 
 
