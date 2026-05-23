@@ -13,12 +13,14 @@
 ---
 
 <details>
-<summary>Immutable Example</summary>
+<summary>Immutable and Mutable Example</summary>
 <p>
    <img width="523" height="401" alt="image" src="https://github.com/user-attachments/assets/4eee96a2-9be9-40ca-a21c-3e4c5e7c7851" />   
    <img width="414" height="232" alt="image" src="https://github.com/user-attachments/assets/6f632535-2f40-4897-90c5-15147ac91ac7" />
    
-   Note: Here we can see the reference are changed. The number 2 and 12 are immutable but the variable "sugar_amount" is mutable
+   Note: Here we can see the reference are changed. The number 2 and 12 are immutable.   
+   <img width="352" height="313" alt="image" src="https://github.com/user-attachments/assets/1569b4e3-3cad-4454-ab46-a064d18cb82c" />
+
 </p>
 
 
